@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+So this is the place I will be seeing first, right?
